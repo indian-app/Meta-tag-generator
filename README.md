@@ -1,2 +1,2 @@
-# Meta-tag-generator
-Best Meta tag generator for SEO.
+# Meta-Tag-Generator
+The best Meta tag provider.
